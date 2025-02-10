@@ -11,7 +11,7 @@ The analysis explores various player statistics, identifies trends, and provides
 - **Data mining File**includes:
   - A detailed description of the dataset.
   - A full analysis of the calculations and insights derived from the data.
-- **Stats_2024.html**: A descriptive snapshot of the Basketball Reference website's page as it appeared on the date the analysis was performed.
+- **df.csv**: Data frame in case the page is no longer available.
 
 ## Data Source
 The data was retrieved directly from the [Basketball Reference](https://www.basketball-reference.com) website, specifically from the NBA totals page for the 2023/24 season. This dataset includes key statistics such as points, rebounds, assists, steals, and other performance metrics for every player.
